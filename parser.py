@@ -120,13 +120,13 @@ def loadJsonFile(jsonLocation: str) -> dict:
 
     return searchJsonData
 
-def parser():
+def parser(inputDataset: str) -> (str, dict):
 
     """
     Function that executes the whole process with loading,
     preprocessing and saving data
     """
-    triplets_array, dataset = loadTripletsArray('freebase-head-1000000')
+    triplets_array, dataset = loadTripletsArray(inputDataset)
     triplets = createTuples(triplets_array)
     json_dict = preprocessData(triplets)
     jsonLocation = saveJsonFile(json_dict, dataset)

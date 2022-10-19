@@ -1,10 +1,15 @@
 from parser import parser
 import json
+import os
 
 q = input('Do you want to regenerate dataset? (y/n)\n')
+backslash = '\\'
 
 if q.lower() == 'y':
-    jsonLocation, searchJsonData = parser()
+    print(f'Files in the data directory:\n'
+          f'{"  ".join(os.listdir("data/"))}')
+    dataset = input('Enter the name of the dataset\n')
+    jsonLocation, searchJsonData = parser(dataset)
 elif q.lower() == 'n':
     searchJsonFile = open(f'jsonData/freebase-head-1000000_Person.json', 'r')
     searchJsonData = json.load(searchJsonFile)
