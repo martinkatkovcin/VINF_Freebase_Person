@@ -98,25 +98,56 @@ print(f'Preprocessed data in {round(end-start, 2)} seconds')
 Save json file format to .json format
 """
 jsonLocation = re.sub('(data/)', '', dataset)
-file = open(f'jsonData/{jsonLocation}_Person.json', 'w')
+file = open(f'jsonData/{jsonLocation}_Person.json', 'w+')
 file.write(json.dumps(json_dict, indent = 4))
 file.close()
 
 # Load json file, that we created, and loaded for search
 searchJsonFile = open(f'jsonData/{jsonLocation}_Person.json', 'r')
+searchJsonData = json.load(searchJsonFile)
+searchJsonFile.close()
+
 task = ['0. Exit program',
         '1. Search people based by year',
-        '2. Search people based by name']
+        '2. Search people based by name',
+        '3. Search people higher than 175 centimeters']
 
 """
 Switch option to make it more clear in the execution
 """
 def switch(searchOption: int) -> None:
+    counter = 0
 
     if searchOption == 1:
-        pass
+        year = int(input('Enter date of birth (year) of people you want to find\n'))
+
+        for key in searchJsonData:
+            try:
+                if year == int((searchJsonData[key]['people.person.date_of_birth'][0])[0:4]):
+                    counter = counter + 1
+                    print(f'{key} was born at {year}.')
+            except:
+                pass
+
     elif searchOption == 2:
-        pass
+        name = input('Enter name for a person you would like to find\n')
+
+        for key in searchJsonData:
+            try:
+                if name == (searchJsonData[key]['type.object.name'][0])[0:len(name)]:
+                    print(f'{name} was found in the dataset!\n')
+                    break
+            except:
+                pass
+
+    elif searchOption == 3:
+        for key in searchJsonData:
+            try:
+                if int((searchJsonData[key]['people.person.height_meters'][0]).replace('.', '')) >= 175:
+                    print(f'{key} is higher than 175 centimeters '
+                          f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm)')
+            except:
+                pass
     else:
         print("Wrong input, please, try again!")
 
@@ -127,10 +158,13 @@ People, that meet the criteria of the task
 """
 while True:
     print('\n'.join(task))
-    searchOption = int(input("Choose your search option\n"))
 
-    if searchOption == 0:
-        searchJsonFile.close()
-        break
+    try:
+        searchOption = int(input("Choose your search option\n"))
 
-    switch(searchOption)
+        if searchOption == 0:
+            break
+
+        switch(searchOption)
+    except:
+        print('Bad input, try again, use numbers')
