@@ -26,7 +26,6 @@ task = ['0. Exit program',
 Switch option to make it more clear in the execution
 """
 
-
 def switch(searchOption: int) -> None:
     counter = 0
     flag = False
