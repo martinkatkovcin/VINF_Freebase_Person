@@ -60,10 +60,8 @@ def switch(searchOption: int) -> None:
         for key in searchJsonData:
             try:
                 if name == (searchJsonData[key]['type.object.name'][0])[0:len(name)]:
-                    counter = counter + 1
-                    print(f'{name} was found in the dataset!\n')
+                    print(f'{searchJsonData[key]["type.object.name"][0][0:len(searchJsonData[key]["type.object.name"][0]) - 3]} was found in the dataset!')
                     flag = True
-                    break
             except:
                 pass
 
