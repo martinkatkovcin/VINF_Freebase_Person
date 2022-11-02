@@ -10,7 +10,7 @@ def loadTripletsArray(dataset: str) -> (list, str):
     """
 
     #Dataset variables
-    notGz = ['freebase-head-1000000', 'freebase-head-10000000']
+    notGz = ['freebase-head-1000000', 'freebase-head-10000000', 'freebase-head-100000000']
 
     # if dataset not in notGz:
     #    # Not working (deadlock), this .gz file will be processed by PySpark

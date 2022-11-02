@@ -20,7 +20,7 @@ task = ['0. Exit program',
         '1. Search people based by year',
         '2. Search people based by name',
         '3. Search people higher than 175 centimeters',
-        '4. Search people based by their age and higher than centimeters']
+        '4. Search people based by their born year and higher than centimeters']
 
 """
 Switch option to make it more clear in the execution
@@ -43,8 +43,8 @@ def switch(searchOption: int) -> None:
                     counter = counter + 1
                     if flag:
                         print(f'{searchJsonData[key]["type.object.name"][0][0:len(searchJsonData[key]["type.object.name"][0]) - 3]} was born at {year}.')
-                    else:
-                        print(f'{key} was born at {year}.')
+                    #else:
+                    #    print(f'{key} was born at {year}.')
                     flag = False
             except:
                 flag = False
@@ -80,9 +80,9 @@ def switch(searchOption: int) -> None:
                     if flag:
                         print(f'{searchJsonData[key]["type.object.name"][0][0:len(searchJsonData[key]["type.object.name"][0]) - 3]} is higher than 175 centimeters '
                               f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm)')
-                    else:
-                        print(f'{key} is higher than 175 centimeters '
-                              f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm)')
+                   # else:
+                    #    print(f'{key} is higher than 175 centimeters '
+                    #          f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm)')
                     flag = False
             except:
                 flag = False
@@ -108,10 +108,10 @@ def switch(searchOption: int) -> None:
                             print(f'{searchJsonData[key]["type.object.name"][0][0:len(searchJsonData[key]["type.object.name"][0]) - 3]} is higher than {height} centimeters '
                                   f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm) '
                                   f'and was born in {int((searchJsonData[key]["people.person.date_of_birth"][0])[0:4])}')
-                        else:
-                            print(f'{key} is higher than {height} centimeters '
-                                  f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm) '
-                                  f'and was born in {int((searchJsonData[key]["people.person.date_of_birth"][0])[0:4])}')
+                        #else:
+                        #    print(f'{key} is higher than {height} centimeters '
+                         #         f'({int((searchJsonData[key]["people.person.height_meters"][0]).replace(".", ""))} cm) '
+                         #         f'and was born in {int((searchJsonData[key]["people.person.date_of_birth"][0])[0:4])}')
                         flag = False
 
             except:
