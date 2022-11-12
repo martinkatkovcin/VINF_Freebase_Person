@@ -10,7 +10,7 @@ if q.lower() == 'y':
     dataset = input('Enter the name of the dataset\n')
     jsonLocation, searchJsonData = parser(dataset)
 elif q.lower() == 'n':
-    searchJsonFile = open(f'jsonData/freebase-head-1000000_Person.json', 'r')
+    searchJsonFile = open(f'jsonData/freebase-head-10000000_Person.json', 'r')
     searchJsonData = json.load(searchJsonFile)
     searchJsonFile.close()
 else:
