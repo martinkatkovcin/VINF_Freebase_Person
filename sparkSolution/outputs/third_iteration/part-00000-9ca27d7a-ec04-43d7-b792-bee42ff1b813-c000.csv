@@ -1,0 +1,24 @@
+id_person,name,birth,death,place_of_birth_ref,weight_kg,nationality_ref,height_meters,birth_validation,death_validation,nationality,place_of_birth
+m.0138k9j3,Simon Mazorodze,1933-01-01,1981-01-01,m.088q4,,m.088q4,,"","",Zimbabwe,Zimbabwe
+m.02rpyd9,Sydney Sekeramayi,1944-03-30,2044-03-05,m.088q4,,m.088q4,,"",Death date could not be valid..,Zimbabwe,Zimbabwe
+m.02rsvs9,Ian Gorowa,1971-11-16,2071-10-22,m.088q4,,m.088q4,,"",Death date could not be valid..,Zimbabwe,Zimbabwe
+m.047dzph,Tonderai Ndira,1908-05-26,2008-05-01,m.088q4,,m.088q4,,Birthdate could not be valid.,"",Zimbabwe,Zimbabwe
+m.03mgf9_,Chacko Vadaketh,1964-05-27,2064-05-02,m.09pmkv,,m.09pmkv,,"",Death date could not be valid..,Malaysia,Malaysia
+m.010p624b,Chin Rodger,"","",m.09pmkv,,m.09pmkv,,Birthdate could not be valid.,Death date could not be valid..,Malaysia,Malaysia
+m.04ygqnz,Gary Steven Robbat,1992-09-03,2092-08-09,m.09pmkv,,m.09pmkv,1.73,"",Death date could not be valid..,Malaysia,Malaysia
+m.04lhk0w,Mohamad Nor Ismail,1982-08-20,2082-07-26,m.09pmkv,,m.09pmkv,1.72,"",Death date could not be valid..,Malaysia,Malaysia
+m.027v8n9,Airil Rizman,1978-04-22,2078-03-28,m.09pmkv,,m.09pmkv,,"",Death date could not be valid..,Malaysia,Malaysia
+m.0kst_m,Shahrizat Abdul Jalil,1953-08-15,2053-07-21,m.0g6xq,,m.09pmkv,,"",Death date could not be valid..,Malaysia,Penang
+m.0kc2t5c,Tze Liang Ooi,1993-11-19,2093-10-25,m.0g6xq,63.96,m.09pmkv,1.65,"",Death date could not be valid..,Malaysia,Penang
+m.06275p,Koh Tsu Koon,1949-08-26,2049-08-01,m.0g6xq,,m.09pmkv,,"",Death date could not be valid..,Malaysia,Penang
+m.03cg8wz,Paolo Mariotti,1979-11-05,2079-10-11,m.06sff,,m.06sff,1.74,"",Death date could not be valid..,San Marino,San Marino
+m.0g9_084,Nicoletta Ceccoli,"","",m.06sff,,m.06sff,,Birthdate could not be valid.,Death date could not be valid..,San Marino,San Marino
+m.03c5mgt,Nicola Albani,1981-04-15,2081-03-21,m.06sff,72.0,m.06sff,1.84,"",Death date could not be valid..,San Marino,San Marino
+m.03c06y8,Mirko Tomassoni,1969-04-24,2069-03-30,m.06sff,,m.06sff,,"",Death date could not be valid..,San Marino,San Marino
+m.050xvj,Tomislav Mužek,1976-05-28,2076-05-03,m.0438ty,,m.01pj7,,"",Death date could not be valid..,Croatia,Siegen
+m.0k0vvyl,Hrvoje Perić,1985-10-25,2085-09-30,m.01pj7,106.0,m.01pj7,2.03,"",Death date could not be valid..,Croatia,Croatia
+m.09v7nph,Nikola Tanhofer,1926-12-25,1998-11-24,m.09259v,,m.01pj7,,"","",Croatia,Sesvete
+m.098l64,Marcus Bai,1972-10-11,2072-09-16,m.05qkp,,m.05qkp,1.75,"",Death date could not be valid..,Papua New Guinea,Papua New Guinea
+m.0j483l7,David Muta,1987-10-24,2087-09-29,m.05qkp,70.0,m.05qkp,1.77,"",Death date could not be valid..,Papua New Guinea,Papua New Guinea
+m.02ryf4_,Bojan Vručina,1984-11-08,2084-10-14,m.030v72,,m.01pj7,1.82,"",Death date could not be valid..,Croatia,Varaždin
+m.010qdfyl,Luka Bešenić,1987-07-12,2087-06-17,m.030v72,,m.01pj7,1.86,"",Death date could not be valid..,Croatia,Varaždin
