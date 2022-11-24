@@ -1,7 +1,7 @@
 .vscode
-data
 jsonData
 venv
 .idea
 .DS_store
 __pycache__
+sparkSolutionJupyter
