@@ -15,14 +15,12 @@ if len(sys.argv) == 0:
 elif len(sys.argv) == 4:
     path_file = sys.argv[1]
     output_file = sys.argv[2]
-    url_cluster = sys.argv[3]
-    spark_path = sys.argv[4]
-    sc = SparkSession.builder.master('local[*]').appName('IR Person entity, FREEBASE').config("spark.executor.uri", spark_path).getOrCreate()
+    url_cluster_master = sys.argv[3]
+    spark_path = sys.argv[4]    
+    sc = SparkSession.builder.master(url_cluster_master).appName('IR Person entity, FREEBASE').getOrCreate().config("spark.executor.uri", spark_path)
 else:
     print("Wrong number of arguments.")
     exit()
-
-
 
 re_name = '(\/[gm]\..+\t<http:\/\/rdf\.freebase\.com\/ns\/type\.object\.name>\t\".*\"@en)'
 re_person = '(\/[gm]\..+\t<http:\/\/rdf\.freebase\.com\/ns\/people\.person\..*>\t)'
