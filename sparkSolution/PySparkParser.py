@@ -5,7 +5,7 @@ from pyspark.sql import functions as f
 import re
 import sys
 
-# spark-submit spark.py <input file> <output file> <url cluster> <sparku path cluster>
+# spark-submit spark.py <input file> <output file> <url cluster> <spark path cluster>
 
 if len(sys.argv) == 0:
     path_file = '../data/freebase-head-100000000'
