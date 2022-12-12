@@ -1,4 +1,5 @@
 import lucene
+import sys
 from java.nio.file import Paths
 from org.apache.lucene.store import NIOFSDirectory
 from org.apache.lucene.analysis.standard import StandardAnalyzer
@@ -19,7 +20,7 @@ def searcher(search_string):
     search_columns = ["name", "birth", "death", "weight_kg", "height_meters", "nationality", "place_of_birth"]
 
     query = MultiFieldQueryParser.parse(MultiFieldQueryParser(search_columns, StandardAnalyzer()), search_string)
-    results = searcher.search(query, 10)
+    results = searcher.search(query, 100)
 
     for score in results.scoreDocs:
         doc = searcher.doc(score.doc)
@@ -39,6 +40,5 @@ def searcher(search_string):
     print(f'There was found {counter} people with {search_string} condition.')
 
 if __name__ == "__main__":
-    search_string = input(
-        'Search through fields, write your input (name, birth, death, weight_kg, height_meters, nationality, place of birth)\n')
+    search_string = sys.argv[1]
     searcher(search_string)
