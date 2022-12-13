@@ -9,7 +9,7 @@ from org.apache.lucene.queryparser.classic import QueryParser
 from org.apache.lucene.queryparser.classic import MultiFieldQueryParser
 
 def searcher(search_string):
-    
+
     counter = 0
     lucene.initVM(vmargs=['-Djava.awt.headless=true'])
     indexDirectory = 'index'
@@ -29,7 +29,7 @@ def searcher(search_string):
         print("Birth: " + doc.get("birth"))
         print("Death: " + doc.get("death"))
         print("Weight in kilograms: " + doc.get("weight_kg"))
-        print("Height in meters" + doc.get("height_meters"))
+        print("Height in meters: " + doc.get("height_meters"))
         print("Nationality: " + doc.get("nationality"))
         print("Place of birth: " + doc.get("place_of_birth"))
         print("Birthdate validation: " + doc.get("birth_validation"))
@@ -40,5 +40,5 @@ def searcher(search_string):
     print(f'There was found {counter} people with {search_string} condition.')
 
 if __name__ == "__main__":
-    search_string = sys.argv[1]
+    search_string = input("Enter search string\n")
     searcher(search_string)
