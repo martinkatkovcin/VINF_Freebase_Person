@@ -1,0 +1,1100 @@
+Basic information about the person (id_person: m.066m_nl)
+Name: Nicol Cupkova
+Birth: 1992-11-04
+Death: 2092-10-10
+Weight in kilograms: 60.0
+Height in meters: 1.74
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0p7csv2)
+Name: Tomáš Lešňovský
+Birth: 1993-10-07
+Death: 2093-09-12
+Weight in kilograms: 81.0
+Height in meters: 1.95
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0k3p69w)
+Name: Maroš Kováč
+Birth: 1977-04-11
+Death: 2077-03-17
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0yvqxmm)
+Name: Laco Kraus
+Birth: 1943-02-10
+Death: 2043-01-16
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0z45wd9)
+Name: Peter Luha
+Birth: 1973-01-01
+Death: 2072-12-07
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0yw_0f9)
+Name: Michal Klec
+Birth: 1995-12-05
+Death: 2095-11-10
+Weight in kilograms: 75.0
+Height in meters: 1.83
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0n4b1k2)
+Name: Pavol Poráč
+Birth: 
+Death: 
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: Birthdate could not be valid.
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0113zb73)
+Name: Tomáš Gerát
+Birth: 1993-06-15
+Death: 2093-05-21
+Weight in kilograms: 75.0
+Height in meters: 1.8
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.066mzy9)
+Name: Maria Herichova
+Birth: 1990-06-12
+Death: 2090-05-18
+Weight in kilograms: 65.0
+Height in meters: 1.74
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0j_64td)
+Name: Lukáš Ondrek
+Birth: 1993-01-11
+Death: 2092-12-17
+Weight in kilograms: 76.0
+Height in meters: 1.79
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.011c7d0z)
+Name: Libor Koníček
+Birth: 1995-07-14
+Death: 2095-06-19
+Weight in kilograms: 
+Height in meters: 1.9
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg8jl2)
+Name: Pavol Ruskovský
+Birth: 1985-02-11
+Death: 2085-01-17
+Weight in kilograms: 
+Height in meters: 1.72
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0_2vpct)
+Name: Jan Tatar
+Birth: 1914-02-04
+Death: 2014-01-10
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: Birthdate could not be valid.
+Deathdate validation: 
+
+Basic information about the person (id_person: m.0h3r4pt)
+Name: Luboš Ilizi
+Birth: 1982-10-13
+Death: 2082-09-18
+Weight in kilograms: 
+Height in meters: 1.9
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0wj16v6)
+Name: Damián Bariš
+Birth: 1994-12-09
+Death: 2094-11-14
+Weight in kilograms: 74.0
+Height in meters: 1.78
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gytkpv)
+Name: Róbert Jano
+Birth: 1993-11-02
+Death: 2093-10-08
+Weight in kilograms: 
+Height in meters: 1.84
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.066m_c6)
+Name: Monika Kvakova
+Birth: 1988-12-15
+Death: 2088-11-20
+Weight in kilograms: 60.78
+Height in meters: 1.65
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0j9g23n)
+Name: Pavol Warhola
+Birth: 1922-06-26
+Death: 2010-01-01
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: 
+
+Basic information about the person (id_person: m.0gg75h8)
+Name: Ján Marcin
+Birth: 1985-09-07
+Death: 2085-08-13
+Weight in kilograms: 
+Height in meters: 1.92
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.011smc86)
+Name: Zdenko Filípek
+Birth: 1995-04-24
+Death: 2095-03-30
+Weight in kilograms: 78.0
+Height in meters: 1.9
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0g5pthz)
+Name: Martin Bartek
+Birth: 1980-07-17
+Death: 2080-06-22
+Weight in kilograms: 101.2
+Height in meters: 1.84
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gm79lh)
+Name: Aramisova
+Birth: 
+Death: 
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: Birthdate could not be valid.
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0byskcv)
+Name: Frantisek Liptak
+Birth: 1962-04-24
+Death: 2062-03-30
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0ggb64y)
+Name: Miloš Bréda
+Birth: 1994-01-19
+Death: 2093-12-25
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.04yftmd)
+Name: Peter Rusina
+Birth: 1988-03-09
+Death: 2088-02-13
+Weight in kilograms: 
+Height in meters: 1.81
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gvsm2t)
+Name: Rastislav Jan Lazorik
+Birth: 1973-04-16
+Death: 2073-03-22
+Weight in kilograms: 
+Height in meters: 1.84
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.02z3lcz)
+Name: Daniel Junas
+Birth: 1962-01-16
+Death: 2061-12-22
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h97192)
+Name: Dana Mann
+Birth: 1984-09-06
+Death: 2084-08-12
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gj8x9s)
+Name: Richard Chorvatovič
+Birth: 1985-05-13
+Death: 2085-04-18
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0glsn2m)
+Name: Oliver Práznovský
+Birth: 1991-02-15
+Death: 2091-01-21
+Weight in kilograms: 81.0
+Height in meters: 1.87
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0r8xfw6)
+Name: Kristián Koštrna
+Birth: 1993-12-15
+Death: 2093-11-20
+Weight in kilograms: 
+Height in meters: 1.76
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0g5rzdf)
+Name: Marek Lisoň
+Birth: 1990-09-15
+Death: 2090-08-21
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gh8703)
+Name: Roman Golian
+Birth: 1982-07-30
+Death: 2082-07-05
+Weight in kilograms: 
+Height in meters: 1.87
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gj8l4h)
+Name: Dominik Štefún
+Birth: 1989-03-07
+Death: 2089-02-10
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0jwyq2x)
+Name: Anna Karolína Schmiedlová
+Birth: 1994-09-13
+Death: 2094-08-19
+Weight in kilograms: 63.0
+Height in meters: 1.76
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0wsd6qy)
+Name: Dominik Dán
+Birth: 1955-01-01
+Death: 2054-12-07
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0pkyfp8)
+Name: Martin Hreben
+Birth: 1976-01-24
+Death: 2075-12-30
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gj8gfs)
+Name: Michal Kozák
+Birth: 1987-03-24
+Death: 2087-02-27
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.010qpd0q)
+Name: Rastislav Vnučko
+Birth: 1975-01-21
+Death: 2074-12-27
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg7078)
+Name: Juraj Valach
+Birth: 1989-02-01
+Death: 2089-01-07
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.027jlxd)
+Name: Jana Kirschner
+Birth: 1978-12-29
+Death: 2078-12-04
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gkxxl6)
+Name: Peter Jakubčo
+Birth: 1991-06-28
+Death: 2091-06-03
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gjd07_)
+Name: Maroš Schustrík
+Birth: 1989-08-05
+Death: 2089-07-11
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h1fzlf)
+Name: Ivan Kmotrík
+Birth: 1959-04-14
+Death: 2059-03-20
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0115p4q2)
+Name: Maroš Balko
+Birth: 1995-09-16
+Death: 2095-08-22
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0113wfzl)
+Name: Andrej Maťašovský
+Birth: 1988-08-20
+Death: 2088-07-26
+Weight in kilograms: 82.0
+Height in meters: 1.94
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: g.1q67l7ynz)
+Name: Peter Gábriš
+Birth: 1988-01-02
+Death: 2087-12-08
+Weight in kilograms: 
+Height in meters: 1.97
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0660rkj)
+Name: Ivan Ziga
+Birth: 1972-08-21
+Death: 2072-07-27
+Weight in kilograms: 
+Height in meters: 1.79
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0ggbjhg)
+Name: Miroslav Škovira
+Birth: 1973-11-07
+Death: 2073-10-13
+Weight in kilograms: 
+Height in meters: 1.76
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h3nhm4)
+Name: Miroslav Ceplák
+Birth: 1983-06-16
+Death: 2083-05-22
+Weight in kilograms: 
+Height in meters: 1.76
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.02qcj27)
+Name: Jaroslav Filip
+Birth: 1949-06-22
+Death: 2000-06-11
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: 
+
+Basic information about the person (id_person: m.010gxyls)
+Name: Hugo Hudák
+Birth: 2013-08-16
+Death: 2113-07-23
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0wzt7vb)
+Name: Stephen Boleslav Roman
+Birth: 1921-01-01
+Death: 1988-01-01
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: 
+
+Basic information about the person (id_person: m.0131k9th)
+Name: Lucia Šušková
+Birth: 1993-03-27
+Death: 2093-03-02
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0cc8n47)
+Name: Lenka Juríková
+Birth: 1990-08-11
+Death: 2090-07-17
+Weight in kilograms: 
+Height in meters: 1.74
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gfhwts)
+Name: Juraj Faith
+Birth: 1976-03-14
+Death: 2076-02-18
+Weight in kilograms: 
+Height in meters: 1.76
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.010x86wn)
+Name: Matúš Opatovský
+Birth: 1994-07-22
+Death: 2094-06-27
+Weight in kilograms: 76.0
+Height in meters: 1.79
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.026qvwf)
+Name: Marcel Matanin
+Birth: 1973-12-15
+Death: 2073-11-20
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0b6p18f)
+Name: Apollonia Vanova
+Birth: 
+Death: 
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: Birthdate could not be valid.
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.07xwy1)
+Name: Richard Müller
+Birth: 1961-09-06
+Death: 2061-08-12
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gjf3l4)
+Name: Ladislav Belkovics
+Birth: 1985-09-17
+Death: 2085-08-23
+Weight in kilograms: 
+Height in meters: 1.83
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.09rw34j)
+Name: Rudolf Huna
+Birth: 1980-05-27
+Death: 2080-05-02
+Weight in kilograms: 
+Height in meters: 1.78
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0g5qw_y)
+Name: Michal Hudec
+Birth: 1979-10-23
+Death: 2079-09-28
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0g5svg2)
+Name: Jozef Kováčik
+Birth: 1980-01-01
+Death: 2079-12-07
+Weight in kilograms: 88.9
+Height in meters: 1.78
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg8x1c)
+Name: Libor Hudáček
+Birth: 1990-09-07
+Death: 2090-08-13
+Weight in kilograms: 
+Height in meters: 1.75
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg957h)
+Name: Miroslav Gálik
+Birth: 1990-01-01
+Death: 2089-12-07
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg5jd2)
+Name: Michal Živčic
+Birth: 1992-06-08
+Death: 2092-05-14
+Weight in kilograms: 
+Height in meters: 1.8
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.03c6wmg)
+Name: Vladimír Bednár
+Birth: 1979-12-08
+Death: 2079-11-13
+Weight in kilograms: 
+Height in meters: 1.74
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg5m79)
+Name: Oliver Špilár
+Birth: 1993-01-22
+Death: 2092-12-28
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0113wlcg)
+Name: Tomáš Galo
+Birth: 1996-12-06
+Death: 2096-11-11
+Weight in kilograms: 
+Height in meters: 1.88
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.02q9199)
+Name: Juraj Minčík
+Birth: 1977-03-27
+Death: 2077-03-02
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gvsl_q)
+Name: Stanislav Danko
+Birth: 1994-03-17
+Death: 2094-02-20
+Weight in kilograms: 
+Height in meters: 1.75
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.011cl78j)
+Name: Matej Čurma
+Birth: 1996-03-27
+Death: 2096-03-02
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0jcd49j)
+Name: Gustav Marsall Petrovsky
+Birth: 1862-01-01
+Death: 1916-01-01
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: 
+
+Basic information about the person (id_person: m.011q3yr4)
+Name: Jakub Kastelovič
+Birth: 1995-06-14
+Death: 2095-05-20
+Weight in kilograms: 
+Height in meters: 1.85
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.04swjpd)
+Name: George Duroy
+Birth: 1957-07-26
+Death: 2057-07-01
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0113_t62)
+Name: Roman Sabler
+Birth: 1995-09-04
+Death: 2095-08-10
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.011c8wdm)
+Name: Dominik Kružliak
+Birth: 1996-07-10
+Death: 2096-06-15
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0j_4y6h)
+Name: Lukáš Mihálik
+Birth: 1994-02-12
+Death: 2094-01-18
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.03hp6l1)
+Name: Katarína Studeníková
+Birth: 1972-09-02
+Death: 2072-08-08
+Weight in kilograms: 
+Height in meters: 1.72
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gg8qzt)
+Name: Michal Vanák
+Birth: 1986-01-09
+Death: 2085-12-15
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h1df13)
+Name: Pavol Dobšinský
+Birth: 1828-03-16
+Death: 1885-10-22
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: 
+
+Basic information about the person (id_person: m.0yvc34z)
+Name: Emma Tarageľová
+Birth: 2001-01-01
+Death: 2100-12-08
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0dx6cd)
+Name: Sebastian Bonnet
+Birth: 1978-04-27
+Death: 2078-04-02
+Weight in kilograms: 75.0
+Height in meters: 1.78
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.066m_x2)
+Name: Petra Babiakova
+Birth: 1977-07-27
+Death: 2077-07-02
+Weight in kilograms: 63.0
+Height in meters: 1.71
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.011v1ql7)
+Name: Tomáš Egert
+Birth: 1984-08-01
+Death: 2084-07-07
+Weight in kilograms: 
+Height in meters: 1.92
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.09sn7m)
+Name: Tomáš Bezdeda
+Birth: 1985-12-02
+Death: 2085-11-07
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0114v5qx)
+Name: Tomáš Fajčík
+Birth: 1995-05-21
+Death: 2095-04-26
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h2ymlj)
+Name: Katarina Korbelova
+Birth: 1986-09-02
+Death: 2086-08-08
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0gkzvyk)
+Name: Vladimír Andraščík
+Birth: 1985-09-03
+Death: 2085-08-09
+Weight in kilograms: 
+Height in meters: 1.87
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0ds2s_m)
+Name: Martin Fěşko
+Birth: 1972-01-28
+Death: 2072-01-03
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0125wf5v)
+Name: Marko Maroši
+Birth: 1993-10-23
+Death: 2093-09-28
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h1h8qf)
+Name: Lukáš Jacko
+Birth: 1993-04-02
+Death: 2093-03-08
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.04gnp73)
+Name: Marcel Palonder
+Birth: 1964-02-03
+Death: 2064-01-09
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0h1h7jw)
+Name: Oliver Janso
+Birth: 1993-11-08
+Death: 2093-10-14
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0g5r88b)
+Name: Juraj Sýkora
+Birth: 1983-09-19
+Death: 2083-08-25
+Weight in kilograms: 
+Height in meters: 1.9
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.011c9y6f)
+Name: Milan Ferenčík
+Birth: 1995-02-02
+Death: 2095-01-08
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.04215j1)
+Name: Roman Prada
+Birth: 1980-11-13
+Death: 2080-10-19
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.0b6jrxd)
+Name: Peter Kiška
+Birth: 1981-05-10
+Death: 2081-04-15
+Weight in kilograms: 
+Height in meters: 1.8
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
+Basic information about the person (id_person: m.06gzd_)
+Name: Dano Sulik
+Birth: 1975-01-25
+Death: 2074-12-31
+Weight in kilograms: 
+Height in meters: 
+Nationality: Slovakia
+Place of birth: Slovakia
+Birthdate validation: 
+Deathdate validation: Death date could not be valid..
+
